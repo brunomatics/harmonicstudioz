@@ -1,0 +1,456 @@
+@media only screen 
+  and (min-device-width: 200px) 
+  and (max-device-width: 840px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+      .body{
+          margin: 0;
+          padding: 0 ;
+      }
+      .menu-link{
+          display: block;
+          padding-top: 3rem;
+      }
+      .main-nav{
+          width: 100%;
+          height: 150px;
+      }
+      .c, .menu-button{
+          display: none;
+      }
+      .contact-menu-link{
+          display: block;
+          margin: auto;
+      }
+
+      .contact-menu-link ul{
+          padding-left: 5rem;
+      }
+      .lic{
+        display: block;
+        width: 320px;
+        margin-left: -7rem;
+      }
+      ul{
+          width: 280px;
+            height: 21px;
+            font-family: Poppins;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 8px;
+            line-height: 21px;
+            margin-top: 2rem;
+            padding-left: 3rem;
+            padding-right: 2rem;
+      }
+      .contact-ul{
+        width: 280px;
+        height: 21px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 8px;
+        line-height: 21px;
+        margin-top: 2rem;
+        padding-left: 4rem;
+        padding-right: 2rem;
+      }
+      .img-logo{
+          width: 100%;
+          height: 30px;
+          display: flex;
+          justify-content: center;
+          margin: 0;
+      }
+      .img-logo img{
+          display: flex;
+          justify-content: center;
+      }
+      .logo-img{
+          display: none;
+      }
+      .landing{
+        display: block;
+        height: 820px;
+        background: #0D0D0D;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+    .left-landing{
+        padding: 0;
+        margin: 0;
+    }
+    .brand-details{
+        margin-top: 8rem;
+        text-align: center;
+    }
+    .everything{
+        display: none;
+    }
+.right-about-landing{
+    display: none;
+}
+    .right-landing{
+        display: none;
+    }
+    .mobile-container{
+        display: block;
+        width: 100%;
+    }
+    .create{
+        height: 30px;
+        width: 350px;
+        display: flex;
+        margin: auto;
+        justify-content: center;
+        background-color: red;
+        padding-top: 5.5rem;
+        text-align: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 10px;
+        line-height: 12px;
+        background-image: linear-gradient(93.42deg, #47FA37 0%, #C1A801 95.21%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .title, html{
+        margin: 0;
+        padding: 0;
+    }
+    .uni{
+        display: none;
+    }
+   .menu-link {
+        margin: 0;
+        padding: 0;
+    }
+    .title{
+        width: 230px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+        padding-left: 3.5rem;
+        padding-right: 3.5rem;
+    }
+    .details{
+        height: 150px;
+        width: 330px;
+        padding-left: 3.5rem;
+        padding-right: 3.5rem;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 180%;
+        text-align: center;
+        padding: 0;
+        color: #E3FAFF;
+        opacity: 0.9;
+    }
+    .laptop-image{
+        height: 200px;
+        width: 300px;
+        background: url(./images/altumcode-fLEwqKoIQDo-unsplash\ 1\ \(1\).png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 0;
+        display: flex;
+        padding: 1rem;
+    }
+    .icon-class{
+        width: 60%;
+    }
+    .offer-title{
+        display: block;
+        margin-top: -2rem;
+    }
+    .offer-text{
+        padding: 0 ;
+        margin: 0;
+    }
+    .offer-text .text{
+        width: 110px;
+        height: 12px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 10px;
+        line-height: 12px;
+        text-align: center;
+    }
+    .question img{
+        display: none;
+    }
+    .details-button{
+        margin-top: 3rem;
+        display: flex;
+        justify-content: center;
+        width: 260px;
+    }
+    .text-details{
+        width: 167px;
+        height: 88px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+        color: #0D0D0D;
+    }
+    .text-details1{
+        width: 234px;
+        height: 44px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+    }
+    .card-container{
+        display: block;
+    }
+    .testimony-card{
+        width: 100%;
+        height: 100%;
+    }
+    .card{
+        padding-top: 15rem;
+        margin:0;
+        padding-left: 0;
+    }
+    .card img{
+        width: 200px;
+    }
+    .footer-box{
+        padding-left: 0;
+    }
+    .part{
+        width: 110px;
+        height: 12px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .sub-part{
+        width: 166px;
+        height: 44px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 44px;
+        color: #026902;
+        opacity: 0.5;
+    }
+    .home-text{
+        width: 110px;
+        height: 12px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .home-caption{
+        width: 233px;
+        height: 44px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+        padding-left: 0;
+        margin: auto;
+    }
+    .partners{
+        height: 200px;
+        margin-top: 115rem;
+    }
+    .part-card{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .part-card1, .part-card2, .part-card3, .part-card4, .part-card5{
+         height: 60px;
+         width: 60px;
+    }
+    .home-brand{
+        width: 110px;
+        height: 16px;
+        font-size: 10px;
+        margin-top: -3rem;
+    }
+    .home-caption{
+        width: 233px;
+        height: 44px;
+        font-size: 36px;
+    }
+    .testimony-card{
+        display: none;
+    }
+    .testimony-mobile-card{
+        display: flex;
+        justify-content: center;
+    }
+    .testimony-mobile1{
+        background-color: #FFFFFF;
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        width: 382px;
+    }
+    .mobile-pic{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 35%;
+    }
+    .mobile-avatar2{
+      z-index: 0;
+      overflow: hidden;
+      width: 96px;
+      height: 96px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      background-image: url('./images/omolily\ hair\ socials\ 02.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      border: 0;
+      margin-top: 3rem;
+    }
+    .mobile-text{
+        width: 25%;
+    }
+    .mobile-text-name{ 
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 22px;
+      line-height: 160%;
+      color: #48E841;
+      width: 175px;
+      height: 35px;
+    }
+    .mobile-text-name-caption2{
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 14px;
+      width: 365px;
+      line-height: 160%;
+      color: #444E59; 
+      opacity: 0.8;
+    }
+    .mobile-line3{
+        margin-top: 4rem;
+    }
+    .footer-box{
+        display: block;
+    }
+    .number, .footer-email {
+        margin-top: -0.5rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        font-size: 14px;
+    }
+
+    .footer-text{
+        font-size: 14px;
+    }
+    .contact-body{
+        height: 1200px;
+    }
+   .left-contact{
+       display: none;
+   } 
+   .right-contact{
+       width: 300px;
+   }
+   .email-box, .msg-box{
+    width: 323px;
+}
+.name{
+    display: block;
+}
+.second-name{
+    margin: 0;
+}
+.about-landing .brand-details{
+    margin-top: 10rem;
+}
+.c-details h4{
+    width: 382px;
+    height: 40px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #CDF6FF;
+    margin: 0;
+}
+.contact-view{
+    width: 100%;
+}
+.contact-img-logo{
+     display: block;
+     margin: auto;
+     text-align: center;
+}
+.c-details p{
+    width: 100%;
+    text-align: center;
+    height: 44px;
+    left: 101px;
+    top: 239px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+    margin-top: 3.5rem;
+}
+.c-details h4{
+    width: 320px;
+}
+.f-name, .email-box{
+    width: 252px;
+    height: 40px;
+}
+.msg-box{
+    width: 252px;
+    height: 150px;
+}
+.c-icon{
+    width: 100%;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 6rem;
+}
+.btn button{
+    width: 170px
+}
+.c-icon img{
+    height: 10px;
+    width: 10px;
+}
+.members{
+    display: none;
+}
+}
+  
